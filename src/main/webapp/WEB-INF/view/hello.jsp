@@ -7,7 +7,7 @@
     <title>Insert title here</title>
 </head>
 <body>
-    테스트 중 <br/>
+    테스트 중 fffff<br/>
     ${message}
 </body>
 </html>
