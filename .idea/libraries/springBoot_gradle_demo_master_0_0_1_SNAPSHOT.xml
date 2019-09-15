@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springBoot-gradle-demo-master-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/distributions/springBoot-gradle-demo-master-0.0.1-SNAPSHOT.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
